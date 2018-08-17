@@ -153,7 +153,7 @@
             this.ButtonOpenFile.Name = "ButtonOpenFile";
             this.ButtonOpenFile.Size = new System.Drawing.Size(75, 23);
             this.ButtonOpenFile.TabIndex = 2;
-            this.ButtonOpenFile.Text = "Open";
+            this.ButtonOpenFile.Text = "Open Grid";
             this.ButtonOpenFile.UseVisualStyleBackColor = true;
             this.ButtonOpenFile.Click += new System.EventHandler(this.ButtonOpenFile_Click);
             // 
@@ -164,7 +164,7 @@
             this.ButtonSave.Name = "ButtonSave";
             this.ButtonSave.Size = new System.Drawing.Size(75, 23);
             this.ButtonSave.TabIndex = 3;
-            this.ButtonSave.Text = "Save";
+            this.ButtonSave.Text = "Save Grid";
             this.ButtonSave.UseVisualStyleBackColor = true;
             this.ButtonSave.Click += new System.EventHandler(this.ButtonSave_Click);
             // 
@@ -217,7 +217,7 @@
             this.ButtonClose.Name = "ButtonClose";
             this.ButtonClose.Size = new System.Drawing.Size(75, 23);
             this.ButtonClose.TabIndex = 8;
-            this.ButtonClose.Text = "Close";
+            this.ButtonClose.Text = "Close Grid";
             this.ButtonClose.UseVisualStyleBackColor = true;
             this.ButtonClose.Click += new System.EventHandler(this.ButtonClose_Click);
             // 
