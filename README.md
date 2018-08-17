@@ -2,6 +2,8 @@
 Utility to create/modify/render the .grid file(s) created by smoothieware firmware (mostly geared towards the Tevo Little Monster/delta printers).
 If auto-callibration is failing you, you might find that manually adjusting the/creating your own .grid file might be the easiest solution.
 
+Where possible, the elements of the form have tool-tips attached which attempt to explain their function, just hover over them. Please note that there are several possible interactions with the form that will clear unsaved changes without warning.
+
 ### Grid Modifier
 This part of the utility can render a supplied .grid file as a heatmap of high and low points.
 Because the software was made to work with a Tevo Little Monster it marks the regions that are outside the radius with bold text.
