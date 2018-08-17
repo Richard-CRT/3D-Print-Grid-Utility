@@ -1,6 +1,6 @@
 # 3D Print Grid Utility
-Utility to create/modify/render the .grid file(s) created by smoothieware firmware (mostly geared towards the Tevo Little Monster/delta printers).
-If auto-callibration is failing you, you might find that manually adjusting the/creating your own .grid file might be the easiest solution.
+Utility to create/modify/render the .grid file(s) created by smoothieware firmware. Please bear in mind that it was made for a Tevo Little Monster printer, and I cannot guarantee that it will function at all for any other printers, although it is more likely to work for other delta printers.
+If auto-callibration is failing you, you might find that manually adjusting the/creating your own .grid file is the easiest solution.
 
 Where possible, the elements of the form have tool-tips attached which attempt to explain their function, just hover over them. Please note that there are several possible interactions with the form that will clear unsaved changes without warning.
 
